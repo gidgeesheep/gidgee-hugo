@@ -1,3 +1,12 @@
-baseURL: https://example.org/
+baseURL: https://gidee.net/
 languageCode: en-us
-title: My New Hugo Site
+title: Gidgee's Awesome Website!
+
+theme: 'hugo-theme-stack'
+
+
+params:
+
+
+    sidebar:
+        emoji: '🦬'

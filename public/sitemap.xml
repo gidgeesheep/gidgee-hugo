@@ -2,10 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://gidee.net/</loc>
+    <lastmod>2025-05-01T19:44:42-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://gidee.net/post/i-love-this-video/</loc>
+    <lastmod>2025-05-01T19:44:42-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://gidee.net/post/</loc>
+    <lastmod>2025-05-01T19:44:42-04:00</lastmod>
+  </url><url>
+    <loc>https://gidee.net/post/first-post/</loc>
+    <lastmod>2025-05-01T13:33:26-04:00</lastmod>
+  </url><url>
+    <loc>https://gidee.net/categories/</loc>
+  </url><url>
+    <loc>https://gidee.net/tags/</loc>
   </url>
 </urlset>

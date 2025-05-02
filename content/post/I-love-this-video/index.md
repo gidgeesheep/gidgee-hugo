@@ -1,0 +1,14 @@
+---
+title: "I Love This Video"
+description: Allow me to show you a little video you might not be aware of
+date: 2025-05-01T19:44:42-04:00
+image: rooster.webp
+math: 
+license: 
+hidden: false
+comments: false
+readingTime: false
+draft: false
+---
+
+{{< youtube riB9uNamxsQ >}}
