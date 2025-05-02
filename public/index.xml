@@ -8,11 +8,11 @@
         <language>en-us</language>
         <lastBuildDate>Thu, 01 May 2025 19:44:42 -0400</lastBuildDate><atom:link href="https://gidee.net/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>I Love This Video</title>
-        <link>https://gidee.net/post/i-love-this-video/</link>
+        <link>https://gidee.net/posts/i-love-this-video/</link>
         <pubDate>Thu, 01 May 2025 19:44:42 -0400</pubDate>
         
-        <guid>https://gidee.net/post/i-love-this-video/</guid>
-        <description>&lt;img src="https://gidee.net/post/i-love-this-video/rooster.webp" alt="Featured image of post I Love This Video" /&gt;&lt;div class=&#34;video-wrapper&#34;&gt;
+        <guid>https://gidee.net/posts/i-love-this-video/</guid>
+        <description>&lt;img src="https://gidee.net/posts/i-love-this-video/rooster.webp" alt="Featured image of post I Love This Video" /&gt;&lt;div class=&#34;video-wrapper&#34;&gt;
     &lt;iframe loading=&#34;lazy&#34; 
             src=&#34;https://www.youtube.com/embed/riB9uNamxsQ&#34; 
             allowfullscreen 
@@ -25,13 +25,21 @@
         </item>
         <item>
         <title>Every blog starts somewhere...</title>
-        <link>https://gidee.net/post/first-post/</link>
+        <link>https://gidee.net/posts/first-post/</link>
         <pubDate>Thu, 01 May 2025 13:33:26 -0400</pubDate>
         
-        <guid>https://gidee.net/post/first-post/</guid>
+        <guid>https://gidee.net/posts/first-post/</guid>
         <description>&lt;h1 id=&#34;and-this-one-starts-here&#34;&gt;And this one starts here!
 &lt;/h1&gt;&lt;p&gt;That doesn&amp;rsquo;t nessesarily mean it&amp;rsquo;s a good post. I could suck! But we are here anyway, so welcome to the beginning of everything!&lt;/p&gt;
 </description>
+        </item>
+        <item>
+        <title>Search</title>
+        <link>https://gidee.net/page/slug/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://gidee.net/page/slug/</guid>
+        <description></description>
         </item>
         
     </channel>

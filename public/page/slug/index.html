@@ -1,20 +1,20 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
     <head><meta charset='utf-8'>
-<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="gidgeesheep">
-<title>Posts</title>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="">
+<title>Search</title>
 
-<link rel='canonical' href='https://gidee.net/posts/'>
+<link rel='canonical' href='https://gidee.net/page/slug/'>
 
-<link rel="stylesheet" href="/scss/style.min.663803bebe609202d5b39d848f2d7c2dc8b598a2d879efa079fa88893d29c49c.css"><meta property='og:title' content="Posts">
-<meta property='og:description' content="gidgeesheep">
-<meta property='og:url' content='https://gidee.net/posts/'>
+<link rel="stylesheet" href="/scss/style.min.663803bebe609202d5b39d848f2d7c2dc8b598a2d879efa079fa88893d29c49c.css"><meta property='og:title' content="Search">
+<meta property='og:description' content="">
+<meta property='og:url' content='https://gidee.net/page/slug/'>
 <meta property='og:site_name' content='Gidgee&#39;s Awesome Website!'>
-<meta property='og:type' content='website'><meta property='og:updated_time' content=' 2025-05-01T19:44:42-04:00 '/>
-<meta name="twitter:title" content="Posts">
-<meta name="twitter:description" content="gidgeesheep"><link rel="alternate" type="application/rss&#43;xml" href="https://gidee.net/posts/index.xml">
+<meta property='og:type' content='article'><meta property='article:section' content='Page' />
+<meta name="twitter:title" content="Search">
+<meta name="twitter:description" content=""><link rel="alternate" type="application/json" href="https://gidee.net/page/slug/index.json"><link rel="preload" href="/page/slug/index.json" as="fetch" crossorigin="anonymous">
     </head>
-    <body class="">
+    <body class="template-search">
     <script>
         (function() {
             const colorSchemeKey = 'StackColorScheme';
@@ -74,7 +74,7 @@
         
         
         
-        <li >
+        <li  class='current' >
             <a href='/page/slug/' >
                 
                 
@@ -121,59 +121,34 @@
     </ol>
 </aside>
 
-    
-
             <main class="main full-width">
-    <header>
-        <h3 class="section-title">
-            
-                Section
-            
-        </h3>
+<form action="/page/slug/" class="search-form"data-json="/page/slug/index.json">
+    <p>
+        <label>Search</label>
+        <input name="keyword" placeholder="Type something..." />
+    </p>
 
-        <div class="section-card">
-            <div class="section-details">
-                <h3 class="section-count">2 pages</h3>
-                <h1 class="section-term">Posts</h1>
-                
-            </div>
-        </div>
-    </header>
-    
-    <section class="article-list--compact">
-        
-            <article>
-    <a href="/posts/i-love-this-video/">
-        <div class="article-details">
-            <h2 class="article-title">I Love This Video</h2>
-            <footer class="article-time">
-                <time datetime='2025-05-01T19:44:42-04:00'>May 01, 2025</time>
-            </footer>
-        </div>
-            <div class="article-image">
-                <img src="/posts/i-love-this-video/rooster_hu_93e07d078e2290c1.webp" 
-                        width="120"
-                        height="120" 
-                        alt="I Love This Video"
-                        loading="lazy">
-                
-            </div>
-        
-    </a>
-</article>
-        
-            <article>
-    <a href="/posts/first-post/">
-        <div class="article-details">
-            <h2 class="article-title">Every blog starts somewhere...</h2>
-            <footer class="article-time">
-                <time datetime='2025-05-01T13:33:26-04:00'>May 01, 2025</time>
-            </footer>
-        </div>
-    </a>
-</article>
-        
-    </section>
+    <button title="Search">
+        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+    </button>
+</form>
+
+<div class="search-result">
+    <h3 class="search-result--title section-title"></h3>
+    <div class="search-result--list article-list--compact"></div>
+</div>
+
+<script>
+    window.searchResultTitleTemplate = "#PAGES_COUNT pages (#TIME_SECONDS seconds)"
+</script><script type="text/javascript" src="/ts/search.js" defer></script>
+
 <footer class="site-footer">
     <section class="copyright">
         &copy; 

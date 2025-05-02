@@ -5,16 +5,20 @@
     <loc>https://gidee.net/</loc>
     <lastmod>2025-05-01T19:44:42-04:00</lastmod>
   </url><url>
-    <loc>https://gidee.net/post/i-love-this-video/</loc>
+    <loc>https://gidee.net/posts/i-love-this-video/</loc>
     <lastmod>2025-05-01T19:44:42-04:00</lastmod>
   </url><url>
-    <loc>https://gidee.net/post/</loc>
+    <loc>https://gidee.net/posts/</loc>
     <lastmod>2025-05-01T19:44:42-04:00</lastmod>
   </url><url>
-    <loc>https://gidee.net/post/first-post/</loc>
+    <loc>https://gidee.net/posts/first-post/</loc>
     <lastmod>2025-05-01T13:33:26-04:00</lastmod>
   </url><url>
     <loc>https://gidee.net/categories/</loc>
+  </url><url>
+    <loc>https://gidee.net/page/</loc>
+  </url><url>
+    <loc>https://gidee.net/page/slug/</loc>
   </url><url>
     <loc>https://gidee.net/tags/</loc>
   </url>
