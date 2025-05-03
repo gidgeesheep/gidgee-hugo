@@ -1,8 +1,17 @@
 ---
+author: "Dingle"
 title: "I Love This Video"
 description: Allow me to show you a little video you might not be aware of
 date: 2025-05-01T19:44:42-04:00
 image: rooster.webp
+
+tags:
+    - chicken
+    
+categories:
+    - videos
+
+
 math: 
 license: 
 hidden: false
