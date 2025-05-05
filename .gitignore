@@ -1,3 +1,6 @@
 #ignore the public file where the website is output
 public/
 public/*
+resources/
+.hugo_build.lock
+assets/jsconfig.json
