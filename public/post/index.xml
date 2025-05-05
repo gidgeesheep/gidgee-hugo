@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Posts on Gidgee&#39;s Awesome Website</title>
+        <title>Posts on Gidgee&#39;s Awesom Website</title>
         <link>https://www.gidgee.net/post/</link>
-        <description>Recent content in Posts on Gidgee&#39;s Awesome Website</description>
+        <description>Recent content in Posts on Gidgee&#39;s Awesom Website</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>GidgeeSheep</copyright>
@@ -13,36 +13,8 @@
         <pubDate>Fri, 02 May 2025 12:08:19 -0400</pubDate>
         
         <guid>https://www.gidgee.net/post/still-learning-how-to-use-hugo/</guid>
-        <description>&lt;img src="https://www.gidgee.net/post/still-learning-how-to-use-hugo/hugo-logo-wide.svg" alt="Featured image of post Still Learning How to Use Hugo" /&gt;&lt;h2 id=&#34;im-really-having-fun&#34;&gt;I&amp;rsquo;m really having fun
-&lt;/h2&gt;&lt;p&gt;Hugo is deep, complex, and a little intimidating. I&amp;rsquo;m really enjoying getting better with every moment of learning.&lt;br&gt;
-Lucky for me, things have been getting easier and easier every day.&lt;/p&gt;
-&lt;p&gt;You can visit the HUGO website &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;here&lt;/a&gt; and you can get the theme I use &lt;a class=&#34;link&#34; href=&#34;https://github.com/CaiJimmy/hugo-theme-stack&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;here&lt;/a&gt;,&lt;br&gt;
-minus all of my configuration changes of course.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;There is a ton of stuff left to do, from editing the configs defaulty introduced of the theme, as well as inventing my own.&lt;/p&gt;
-&lt;p&gt;For god sakes I haven&amp;rsquo;t even got many posts to begin with. But I&amp;rsquo;m changing that slowly 😊, and little tweaks and addtions will pop up everywhere with time. This website will be my own.&lt;/p&gt;
-&lt;h2 id=&#34;todo&#34;&gt;TODO
-&lt;/h2&gt;&lt;p&gt;There are a few things that I have to keep working on to get this site up to peak&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Find out how to make this checkbox work&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Add a comments section&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Get the last edited thing working at the bottom of the page&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Add color to the background, grey and white is like 🤮&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Photo Gallery!? I don&amp;rsquo;t even know how the menus on the left side work, but I&amp;rsquo;d put it there!&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;There are more things to do but I&amp;rsquo;m no going to list it all here.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://media.tenor.com/R4Gc_y32GJcAAAAj/cubama-obama.gif&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;obamacube&#34;
-	
-	
-&gt;&lt;/p&gt;
+        <description>&lt;h2 id=&#34;im-really-having-fun&#34;&gt;I&amp;rsquo;m really having fun
+&lt;/h2&gt;&lt;p&gt;Hugo is deep, complex, and a little intimidating. I&amp;rsquo;m really enjoying getting better with every moment of learning.&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -71,14 +43,16 @@ minus all of my configuration changes of course.&lt;/p&gt;
         <guid>https://www.gidgee.net/post/first-post/</guid>
         <description>&lt;h1 id=&#34;and-this-one-starts-here&#34;&gt;And this one starts here!
 &lt;/h1&gt;&lt;p&gt;I&amp;rsquo;m constantly adding shit so who knows what you&amp;rsquo;ll see next!&lt;/p&gt;
-&lt;p style=&#34;margin: 1px;font-size: 6vw; text-align: center&#34;&gt;HELLO EVERYBODY!!!&lt;/p&gt;
-&lt;img src=&#34;pim.gif&#34; width=60% style=&#34;display: block; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;p style=&#34;font-size: 5vw;&#34;&gt;HELLO EVERYBODY!!!&lt;/p&gt;
+&lt;img src=&#34;pim.gif&#34; width=100% style=&#34;margin: 1; border-style:solid; border-color: white;   display: block; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;p&gt;That doesn&amp;rsquo;t nessesarily mean it&amp;rsquo;s a &lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=dQw4w9WgXcQ&amp;amp;autoplay=1&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;good&lt;/a&gt; post. It could suck! But we are &lt;code&gt;here&lt;/code&gt; anyway, so welcome to the beginning of everything!&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;I don&amp;rsquo;t even know whats going on in this thing dude&lt;br&gt;
-Like some sort of evil space seperated from our time and reality&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;&lt;code&gt;cat != dog : true;&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;this is not it my dude&lt;/p&gt;&lt;/blockquote&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;br&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;img&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;src&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;pim.gif&amp;#34;&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;!-- This is modified in the stack theme to do some strange thing i don&#39;t want, specifically it adds a static layer on my gif that makes it ugly --&gt;
+&lt;!-- ![pim](pim.gif &#34;HELLOEVERYBODY&#34;) --&gt;
 &lt;!-- 
 I am trying to wrangle with what the fuck they hugo documentation says about resources
 but it just ends up reading it as a &lt;p&gt; paragraph, i don&#39;t know what it wants
@@ -91,7 +65,6 @@ the := might be a pipe but i don&#39;t know
  https://www.thenewdynamic.com/article/hugo-data/manipulation-and-logic-the-basics/
  
 --&gt;
-&lt;p style=&#34;font-family: fantasy; font-size: 2vw; align-content:start&#34;&gt;&lt;img src=&#34;https://www.gidgee.net/qr_9ecb106093841e9.png&#34; width=&#34;132&#34; height=&#34;132&#34;&gt; Don&#39;t be afraid, it&#39;s just a little funny meme image.&lt;p/&gt;
 &lt;!-- {{ $pim := .Resources.Get &#34;pim.gif&#34; }} --&gt;
 &lt;!-- 
 this is raw html, and the renderer sees it, it seems to be intentionally ignoring it at render, i&#39;ll try to change the global .config for markup:goldmark:renderer:unsafe
