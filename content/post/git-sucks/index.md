@@ -22,10 +22,7 @@ draft: false
 readingTime: true
 ---
 
-{{< bluesky link="https://bsky.app/profile/gaziter.bsky.social/post/3logptcgrtk2l" >}}
-
-
-![git-logo](logo.png)
+<a href="https://git-scm.com/" ><img src="logo.png" style="background-color: white; border-radius: 10px; padding: 5px "></a>
 
 # I want to bitch about Git
 Don't read this if you are a git wizard, this isn't for you. I use git. I'm using git for this project right now.
