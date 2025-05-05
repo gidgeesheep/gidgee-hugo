@@ -6,7 +6,12 @@ copyright: GidgeeSheep
 
 DefaultContentLanguage: en
 
+pagination:
+    pagerSize: 3
 
+permalinks:
+    post: /p/:slug/
+    page: /:slug/
 
 params:
     footer:

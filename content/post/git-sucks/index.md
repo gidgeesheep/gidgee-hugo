@@ -7,6 +7,9 @@ math:
 license: 
 hidden: false
 
+links:
+    
+
 categories:
  - development
 
@@ -18,6 +21,9 @@ draft: false
 
 readingTime: true
 ---
+
+{{< bluesky link="https://bsky.app/profile/gaziter.bsky.social/post/3logptcgrtk2l" >}}
+
 
 ![git-logo](logo.png)
 
