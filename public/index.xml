@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Gidgee&#39;s Awesom Website</title>
-        <link>https://www.gidgee.net/</link>
+        <link>http://localhost:1313/</link>
         <description>Recent content on Gidgee&#39;s Awesom Website</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>GidgeeSheep</copyright>
-        <lastBuildDate>Fri, 02 May 2025 12:08:19 -0400</lastBuildDate><atom:link href="https://www.gidgee.net/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 02 May 2025 12:08:19 -0400</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Still Learning How to Use Hugo</title>
-        <link>https://www.gidgee.net/post/still-learning-how-to-use-hugo/</link>
+        <link>http://localhost:1313/post/still-learning-how-to-use-hugo/</link>
         <pubDate>Fri, 02 May 2025 12:08:19 -0400</pubDate>
         
-        <guid>https://www.gidgee.net/post/still-learning-how-to-use-hugo/</guid>
+        <guid>http://localhost:1313/post/still-learning-how-to-use-hugo/</guid>
         <description>&lt;h2 id=&#34;im-really-having-fun&#34;&gt;I&amp;rsquo;m really having fun
 &lt;/h2&gt;&lt;p&gt;Hugo is deep, complex, and a little intimidating. I&amp;rsquo;m really enjoying getting better with every moment of learning.&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>I Love This Video</title>
-        <link>https://www.gidgee.net/post/i-love-this-video/</link>
+        <link>http://localhost:1313/post/i-love-this-video/</link>
         <pubDate>Thu, 01 May 2025 19:44:42 -0400</pubDate>
         
-        <guid>https://www.gidgee.net/post/i-love-this-video/</guid>
-        <description>&lt;img src="https://www.gidgee.net/post/i-love-this-video/rooster.webp" alt="Featured image of post I Love This Video" /&gt;&lt;p&gt;Chicken&lt;/p&gt;
+        <guid>http://localhost:1313/post/i-love-this-video/</guid>
+        <description>&lt;img src="http://localhost:1313/post/i-love-this-video/rooster.webp" alt="Featured image of post I Love This Video" /&gt;&lt;p&gt;Chicken&lt;/p&gt;
 &lt;div class=&#34;video-wrapper&#34;&gt;
     &lt;iframe loading=&#34;lazy&#34; 
             src=&#34;https://www.youtube.com/embed/riB9uNamxsQ&#34; 
@@ -37,10 +37,10 @@
         </item>
         <item>
         <title>Every blog starts somewhere...</title>
-        <link>https://www.gidgee.net/post/first-post/</link>
+        <link>http://localhost:1313/post/first-post/</link>
         <pubDate>Thu, 01 May 2025 13:33:26 -0400</pubDate>
         
-        <guid>https://www.gidgee.net/post/first-post/</guid>
+        <guid>http://localhost:1313/post/first-post/</guid>
         <description>&lt;h1 id=&#34;and-this-one-starts-here&#34;&gt;And this one starts here!
 &lt;/h1&gt;&lt;p&gt;I&amp;rsquo;m constantly adding shit so who knows what you&amp;rsquo;ll see next!&lt;/p&gt;
 &lt;p style=&#34;font-size: 5vw;&#34;&gt;HELLO EVERYBODY!!!&lt;/p&gt;
@@ -79,18 +79,18 @@ update: working good enough
         </item>
         <item>
         <title>Archives</title>
-        <link>https://www.gidgee.net/page/archives/</link>
+        <link>http://localhost:1313/page/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://www.gidgee.net/page/archives/</guid>
+        <guid>http://localhost:1313/page/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>Search</title>
-        <link>https://www.gidgee.net/page/slug/</link>
+        <link>http://localhost:1313/page/slug/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://www.gidgee.net/page/slug/</guid>
+        <guid>http://localhost:1313/page/slug/</guid>
         <description></description>
         </item>
         

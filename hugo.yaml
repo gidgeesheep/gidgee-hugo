@@ -12,6 +12,14 @@ params:
     footer:
         since: 2025
 
+    sidebar:
+        emoji: 🍖
+        subtitle: What the Frick!!
+        avatar:
+            enabled: true
+            local: true
+            src: img/avatar.png
+
     widgets:
         homepage:
             - type: search
