@@ -19,7 +19,7 @@ draft: false
 readingTime: true
 ---
 
-![git-logo]logo.png)
+![git-logo](logo.png)
 
 # I want to bitch about Git
 Don't read this if you are a git wizard, this isn't for you. I use git. I'm using git for this project right now.
