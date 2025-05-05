@@ -1,5 +1,3 @@
 #ignore the public file where the website is output
 public/
 public/*
-resources/_gen
-resources/_gen/*

@@ -1,7 +1,5 @@
 ---
 date: '2025-05-01T13:33:26-04:00'
-lastmod: 
-
 draft: false
 title: 'Every blog starts somewhere...'
 image: 
@@ -21,18 +19,20 @@ unsafe: true
 
 # And this one starts here!
 I'm constantly adding shit so who knows what you'll see next!
-
-<p style="margin: 1px;font-size: 6vw; text-align: center">HELLO EVERYBODY!!!</p>
-<img src="pim.gif" width=60% style="display: block; margin-left: auto; margin-right: auto;">
+<p style="font-size: 5vw;">HELLO EVERYBODY!!!</p>
+<img src="pim.gif" width=100% style="margin: 1; border-style:solid; border-color: white;   display: block; margin-left: auto; margin-right: auto;">
 
 
 That doesn't nessesarily mean it's a [good](https://www.youtube.com/watch?v=dQw4w9WgXcQ&autoplay=1) post. It could suck! But we are `here` anyway, so welcome to the beginning of everything!
 
->I don't even know whats going on in this thing dude  
->Like some sort of evil space seperated from our time and reality
+>this is not it my dude
 
-
-`cat != dog : true;`
+```html
+<br>
+<img src="pim.gif">
+```
+<!-- This is modified in the stack theme to do some strange thing i don't want, specifically it adds a static layer on my gif that makes it ugly -->
+<!-- ![pim](pim.gif "HELLOEVERYBODY") -->
 
 
 <!-- 
@@ -47,11 +47,6 @@ the := might be a pipe but i don't know
  https://www.thenewdynamic.com/article/hugo-data/manipulation-and-logic-the-basics/
  
 -->
-
-<p style="font-family: fantasy; font-size: 2vw; align-content:start">{{< qr text = "https://shorturl.at/yoqn7" />}} Don't be afraid, it's just a little funny meme image.<p/>
-
-
-
 <!-- {{ $pim := .Resources.Get "pim.gif" }} -->
 
 <!-- 
