@@ -7,14 +7,66 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>GidgeeSheep</copyright>
-        <lastBuildDate>Fri, 02 May 2025 12:08:19 -0400</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 05 May 2025 10:45:33 -0400</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Git Sucks*</title>
+        <link>http://localhost:1313/post/git-sucks/git-sucks/</link>
+        <pubDate>Mon, 05 May 2025 10:45:33 -0400</pubDate>
+        
+        <guid>http://localhost:1313/post/git-sucks/git-sucks/</guid>
+        <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/git-logo.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;gitlogo&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h1 id=&#34;i-want-to-bitch-about-git&#34;&gt;I want to bitch about Git
+&lt;/h1&gt;&lt;p&gt;Don&amp;rsquo;t read this if you are a git wizard, this isn&amp;rsquo;t for you. I use git. I&amp;rsquo;m using git for this project right now.
+If I didn&amp;rsquo;t use it, I would have lost some good progress.&lt;br&gt;
+I also lost the progress &lt;strong&gt;because&lt;/strong&gt; of &lt;em&gt;git&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Git is a controller for &amp;lsquo;version control&amp;rsquo; or a fancy way of tracking you files&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve heard of it called something like a save file in a video game, where everything you do up to a point is frozen in time, ready for you to return to at any moment.&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Still Learning How to Use Hugo</title>
         <link>http://localhost:1313/post/still-learning-how-to-use-hugo/</link>
         <pubDate>Fri, 02 May 2025 12:08:19 -0400</pubDate>
         
         <guid>http://localhost:1313/post/still-learning-how-to-use-hugo/</guid>
-        <description>&lt;h2 id=&#34;im-really-having-fun&#34;&gt;I&amp;rsquo;m really having fun
-&lt;/h2&gt;&lt;p&gt;Hugo is deep, complex, and a little intimidating. I&amp;rsquo;m really enjoying getting better with every moment of learning.&lt;/p&gt;
+        <description>&lt;img src="http://localhost:1313/post/still-learning-how-to-use-hugo/hugo-logo-wide.svg" alt="Featured image of post Still Learning How to Use Hugo" /&gt;&lt;h2 id=&#34;im-really-having-fun&#34;&gt;I&amp;rsquo;m really having fun
+&lt;/h2&gt;&lt;p&gt;Hugo is deep, complex, and a little intimidating. I&amp;rsquo;m really enjoying getting better with every moment of learning.&lt;br&gt;
+Lucky for me, things have been getting easier and easier every day.&lt;/p&gt;
+&lt;p&gt;You can visit the HUGO website &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;here&lt;/a&gt; and you can get the theme I use &lt;a class=&#34;link&#34; href=&#34;https://github.com/CaiJimmy/hugo-theme-stack&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;here&lt;/a&gt;,&lt;br&gt;
+minus all of my configuration changes of course.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;There is a ton of stuff left to do, from editing the configs defaulty introduced of the theme, as well as inventing my own.&lt;/p&gt;
+&lt;p&gt;For god sakes I haven&amp;rsquo;t even got many posts to begin with. But I&amp;rsquo;m changing that slowly 😊, and little tweaks and addtions will pop up everywhere with time. This website will be my own.&lt;/p&gt;
+&lt;h2 id=&#34;todo&#34;&gt;TODO
+&lt;/h2&gt;&lt;p&gt;There are a few things that I have to keep working on to get this site up to peak&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Find out how to make this checkbox work&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Add a comments section&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Get the last edited thing working at the bottom of the page&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Add color to the background, grey and white is like 🤮&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Photo Gallery!? I don&amp;rsquo;t even know how the menus on the left side work, but I&amp;rsquo;d put it there!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;There are more things to do but I&amp;rsquo;m no going to list it all here.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://media.tenor.com/R4Gc_y32GJcAAAAj/cubama-obama.gif&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;obamacube&#34;
+	
+	
+&gt;&lt;/p&gt;
 </description>
         </item>
         <item>

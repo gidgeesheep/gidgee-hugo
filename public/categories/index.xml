@@ -7,7 +7,15 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>GidgeeSheep</copyright>
-        <lastBuildDate>Thu, 01 May 2025 19:44:42 -0400</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 05 May 2025 10:45:33 -0400</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Development</title>
+        <link>http://localhost:1313/categories/development/</link>
+        <pubDate>Mon, 05 May 2025 10:45:33 -0400</pubDate>
+        
+        <guid>http://localhost:1313/categories/development/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Videos</title>
         <link>http://localhost:1313/categories/videos/</link>
         <pubDate>Thu, 01 May 2025 19:44:42 -0400</pubDate>
