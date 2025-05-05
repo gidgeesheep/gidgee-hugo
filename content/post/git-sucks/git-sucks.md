@@ -14,11 +14,12 @@ tags:
  - rant
 
 comments: false
-draft: true
+draft: false
 
 readingTime: true
 ---
-![gitlogo](./git-logo.png "git logo")
+
+![git-logo]logo.png)
 
 # I want to bitch about Git
 Don't read this if you are a git wizard, this isn't for you. I use git. I'm using git for this project right now.
