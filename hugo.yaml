@@ -47,3 +47,5 @@ markup:
                 enableDefault: true
         renderer:
             unsafe: true
+security:
+  enableInlineShortcodes: true

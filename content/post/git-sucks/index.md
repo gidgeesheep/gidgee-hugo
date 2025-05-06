@@ -2,6 +2,9 @@
 title: "Git Sucks*"
 description: But I use it anyway
 date: 2025-05-05T10:45:33-04:00
+
+lastMod: 
+
 image: 
 math: 
 license: 
@@ -32,4 +35,5 @@ I also lost the progress **because** of *git*.
 Git is a controller for 'version control' or a fancy way of tracking you files
 
 I've heard of it called something like a save file in a video game, where everything you do up to a point is frozen in time, ready for you to return to at any moment. 
+
 
