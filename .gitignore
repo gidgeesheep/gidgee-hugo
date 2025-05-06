@@ -1,4 +1,5 @@
 #ignore the public file where the website is output
+#the other ignores where part of the stack theme git ignore so i'm copying them but not really sure what for
 public
 resources
 .hugo_build.lock
