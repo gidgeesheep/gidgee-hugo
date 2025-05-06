@@ -18,7 +18,7 @@ params:
         since: 2025
 
     sidebar:
-        emoji: 🍖
+        emoji: ☢️
         subtitle: What the Frick!!
         avatar:
             enabled: true
