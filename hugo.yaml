@@ -7,11 +7,12 @@ copyright: GidgeeSheep
 DefaultContentLanguage: en
 
 pagination:
-    pagerSize: 3
+    pagerSize: 10
 
 permalinks:
-    post: /p/:slug/
+    post: /posts/:slug/
     page: /:slug/
+    gallery: /gallery/:slug/
 
 params:
     footer:
@@ -28,6 +29,8 @@ params:
     widgets:
         homepage:
             - type: search
+
+
             - type: archives
               params:
                   limit: 5
