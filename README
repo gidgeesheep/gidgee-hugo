@@ -1,16 +1,19 @@
 THIS IS MY BIG FAT README FILE
 
 -- BUGLIST --
-1. When entering a post from the searc page, the theme flips (SOMETIMES!!, i just checked and now its not doing it 😡)
+1. When entering a post from the searc page, the theme flips (SOMETIMES!!, I just checked and now its not doing it 😡)
 2. Light Mode => The >BLOCKQUOTE and the ```CODEBLOCK``` do not have enough contrast to be seen as separate elements
     -> moreover, the CODEBLOCK style only surrounds the text with its background color instead of affecting a content block
    + SUGGESTION : Check on the code that decides what MARKUP does and see if the colors are decided based on the stuff in there
 3. Transparent Gifs: When using the standard image gallary shortcode of ![example text](imagefile.img), a pre-rendered static ghost
-    -> is generated, probably from the <PhotoSwipe> special integrated JavaScript gallery program, its just annoying but i can get
+    -> is generated, probably from the <PhotoSwipe> special integrated JavaScript gallery program, its just annoying but I can get
     -> the problem by using inline html code to add the .gif file directly
     NOTE : this doesn't matter for all gifs, only ones with transparency
     + SUGGESTION : Look into the way <PhotoSwipe> handles images, my guess
 
+4. git => my theme is attacted to a submodule, so the themes folder can't be added to the git project,
+    -> https://stackoverflow.com/questions/26752481/remove-git-submodule-but-keep-files
+    -> try to follow this and see if it fixes it. Since I am editing the theme directly in some cases, it is important I figure it out
 
 -- WISHLIST --
 What I just hope with all my heart I can make of this project
@@ -18,4 +21,5 @@ What I just hope with all my heart I can make of this project
     -> Get a git repo set onto the server so I don't have to do drag and drop crap anymore. If I keep working on this project,
     -> it'll snowball out of control, and drag an drop will be the death of the website.
 2. A custom, to my liking, built by me, UNDERSTOOD by me, drag and drop photo gallery
+3. A sitewide background image, just abstract color to break up the sad and lonely monotone defaul background
 
