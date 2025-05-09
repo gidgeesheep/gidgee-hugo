@@ -16,6 +16,11 @@ permalinks:
 
 timeZone: America/New_York
 
+frontmatter:
+    lastmod:
+    - lastmod
+    - :fileModTime
+
 params:
     footer:
         since: 2025

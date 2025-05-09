@@ -4,7 +4,7 @@ description: HUGO is a static site buider for making websites like mine!
 date: 2025-05-02T12:08:19-04:00
 image: hugo-logo-wide.svg
 
-lastMod: 2025-05-06
+lastMod: 
 
 license: 
 hidden: false
@@ -36,7 +36,7 @@ For god sakes I haven't even got many posts to begin with. But I'm changing that
 There are a few things that I have to keep working on to get this site up to peak
  - [x] Find out how to make this checkbox work
  - [ ] Add a comments section
- - [ ] Get the last edited thing working at the bottom of the page
+ - [x] Get the last edited thing working at the bottom of the page
  - [ ] Add color to the background, grey and white is like 🤮
  - [x] Photo Gallery!? I don't even know how the menus on the left side work, but I'd put it there![^*]
  [^*]: At current, this is more like a wishful prototype, build on a stolen skeleton

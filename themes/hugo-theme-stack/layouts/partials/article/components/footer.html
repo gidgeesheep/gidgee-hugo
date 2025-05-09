@@ -12,7 +12,7 @@
     <section class="article-lastmod">
         {{ partial "helper/icon" "clock" }}
         <span>
-            {{ T "article.lastUpdatedOn" }} {{ .Lastmod | time.Format ":date_long" }}
+            {{ T "article.lastUpdatedOn" }} - {{ .Lastmod | time.Format ":date_long" }} {{ .Lastmod | time.Format ":time_short" }} EST
         </span>
     </section>
     {{- end -}}
