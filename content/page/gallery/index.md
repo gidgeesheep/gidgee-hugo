@@ -1,7 +1,7 @@
 ---
 title: Gallery
 slug: gallery
-
+date: 
 lastMod: 0
 
 hidden: false
@@ -18,8 +18,18 @@ menu:
             icon: library-photo
 ---
 
+Stupid Placeholder Gallery
+
+## Funny Pictures
+
 ![](arlo-in-hell.jpg) ![](steve.png "Steve")
 ![](funny-memem.jpg)
+
+---
+
+## Cat Pictures
+
+![](cat-photo1.jpg) ![](cat-photo2.jpg) ![](cat-photo3.jpg) 
 
 
 

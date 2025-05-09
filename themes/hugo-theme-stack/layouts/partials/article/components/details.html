@@ -24,7 +24,8 @@
     </div>
 
     {{ $showReadingTime := .Params.readingTime | default (.Site.Params.article.readingTime) }}
-    {{ $showDate := not .Date.IsZero }}
+<!--   Weird little workaround to stop a page without a date from rendering when the lastMod is also being chosen not to be used   -->
+    {{ $showDate := and (not .Date.IsZero) (not (eq .Lastmod (time.AsTime 0))) }}
     {{ $showAuthor := .Params.author }}
     {{ $showFooter := or $showDate $showReadingTime }}
     {{ if $showFooter }}
