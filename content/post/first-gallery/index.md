@@ -3,6 +3,7 @@ title: Image Gallery?!?
 description: Some ugly thing that resembles an image gallery has appeared on the menu to left
 date: 2025-05-06T14:12:16-04:00
 
+# leave lastMod blank to automatically add a date :)
 lastMod: 
 
 categories:

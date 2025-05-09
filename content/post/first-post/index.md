@@ -2,8 +2,12 @@
 date: '2025-05-01T13:33:26-04:00'
 draft: false
 title: 'Every blog starts somewhere...'
+
+# leave lastMod blank to automatically add a date :)
+lastMod:
+
 image: 
-math: 
+ 
 license: 
 hidden: false
 

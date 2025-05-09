@@ -3,7 +3,9 @@ title: "Fun at the Zoo"
 description: 
 date: 2025-05-09T10:29:46-04:00
 
-lastMod: 2025-05-09
+# leave lastMod blank to automatically add a date :)
+lastMod: 
+
 image: 
 
 license: 
@@ -13,7 +15,7 @@ links:
 
 
 categories:
-
+    - reviews
 tags:
 
 comments: false

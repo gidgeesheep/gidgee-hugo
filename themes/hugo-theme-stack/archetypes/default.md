@@ -3,6 +3,7 @@ title: "{{ replace .Name "-" " " | title }}"
 description: 
 date: {{ .Date }}
 
+# leave lastMod blank to automatically add a date :)
 lastMod: 
 
 image: 

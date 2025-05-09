@@ -3,7 +3,9 @@ title: "Git Sucks*"
 description: But I use it anyway
 date: 2025-05-05T10:45:33-04:00
 
+# leave lastMod blank to automatically add a date :)
 lastMod: 
+
 image: 
 
 license: 

@@ -4,6 +4,7 @@ description: HUGO is a static site buider for making websites like mine!
 date: 2025-05-02T12:08:19-04:00
 image: hugo-logo-wide.svg
 
+# leave lastMod blank to automatically add a date :)
 lastMod: 
 
 license: 
