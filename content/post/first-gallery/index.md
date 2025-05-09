@@ -4,6 +4,7 @@ description: Some ugly thing that resembles an image gallery has appeared on the
 date: 2025-05-06T14:12:16-04:00
 
 # leave lastMod blank to automatically add a date :)
+# set to 0 and it won't show up
 lastMod: 
 
 categories:

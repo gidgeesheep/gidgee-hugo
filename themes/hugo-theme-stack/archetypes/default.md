@@ -4,7 +4,8 @@ description:
 date: {{ .Date }}
 
 # leave lastMod blank to automatically add a date :)
-lastMod: 
+# set to 0 and it won't show up
+lastMod: 0
 
 image: 
 
@@ -12,7 +13,6 @@ license:
 hidden: false
 
 links:
-    
 
 categories:
 

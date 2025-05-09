@@ -2,6 +2,8 @@
 title: Gallery
 slug: gallery
 
+lastMod: 0
+
 hidden: false
 
 comments: false

@@ -8,7 +8,7 @@
     </section>
     {{ end }}
 
-    {{- if ne .Lastmod .Date -}}
+    {{- if and (not (eq .Lastmod (time.AsTime 0))) (ne .Lastmod .Date) -}}
     <section class="article-lastmod">
         {{ partial "helper/icon" "clock" }}
         <span>

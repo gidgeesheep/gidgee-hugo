@@ -5,7 +5,8 @@ description: Allow me to show you a little video you might not be aware of
 date: 2025-05-01T19:44:42-04:00
 
 # leave lastMod blank to automatically add a date :)
-lastMod: 
+# set to 0 and it won't show up
+lastMod: 0
 
 image: rooster.webp
 

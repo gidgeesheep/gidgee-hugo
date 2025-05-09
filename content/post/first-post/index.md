@@ -4,6 +4,7 @@ draft: false
 title: 'Every blog starts somewhere...'
 
 # leave lastMod blank to automatically add a date :)
+# set to 0 and it won't show up
 lastMod:
 
 image: 

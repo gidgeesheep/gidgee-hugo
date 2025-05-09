@@ -5,6 +5,7 @@ date: 2025-05-02T12:08:19-04:00
 image: hugo-logo-wide.svg
 
 # leave lastMod blank to automatically add a date :)
+# set to 0 and it won't show up
 lastMod: 
 
 license: 
