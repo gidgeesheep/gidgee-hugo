@@ -22,6 +22,9 @@ frontmatter:
     - :fileModTime
 
 params:
+
+    favicon: /favicon-simple.png
+
     footer:
         since: 2025
 
