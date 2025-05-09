@@ -3,8 +3,7 @@ title: "Git Sucks*"
 description: But I use it anyway
 date: 2025-05-05T10:45:33-04:00
 
-lastMod: 
-
+lastMod: 2025-05-09
 image: 
 
 license: 
@@ -28,6 +27,9 @@ draft: false
 
 readingTime: true
 ---
+
+
+
 
 <img src="logo.png" style="background-color:white; padding: 10px; border-radius: 20px" ><br>
 
