@@ -14,13 +14,15 @@ permalinks:
     page: /:slug/
     gallery: /gallery/:slug/
 
+timeZone: America/New_York
+
 params:
     footer:
         since: 2025
 
     sidebar:
-        emoji: ☢️
-        subtitle: What the Frick!!
+        emoji: 🐅
+        subtitle: Have you been to the Zoo lately?
         avatar:
             enabled: true
             local: true
