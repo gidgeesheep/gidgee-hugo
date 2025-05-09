@@ -13,11 +13,7 @@ THIS IS MY BIG FAT README FILE
     NOTE : this doesn't matter for all gifs, only ones with transparency
     + SUGGESTION : Look into the way <PhotoSwipe> handles images, my guess
 
-4. git => my theme is attacted to a submodule, so the themes folder can't be added to the git project,
-    -> https://stackoverflow.com/questions/26752481/remove-git-submodule-but-keep-files
-    -> try to follow this and see if it fixes it. Since I am editing the theme directly in some cases, it is important I figure it out
-
-5. Favicon has gone missing
+4. date posted time in Gallery is screwed up
 
 -- WISHLIST --
 What I just hope with all my heart I can make of this project
@@ -31,6 +27,13 @@ What I just hope with all my heart I can make of this project
 
 4. Something called 'Cache Busting' so my static website gets updated and doesn't let the browser used its cached site
 
+5. Maybe a section about the authors if more than myself writes articles for this website
+
+6. Get the words 'dark mode' to change and say 'light mode' when you click on it
+
 -- ACCOMPLISHMENTS --
 1. Automatic last updated footer
+
+2. An author can now be put as a param in a webpage and appear on the header details
+
 
