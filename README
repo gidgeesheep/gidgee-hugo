@@ -13,7 +13,7 @@ THIS IS MY BIG FAT README FILE
     NOTE : this doesn't matter for all gifs, only ones with transparency
     + SUGGESTION : Look into the way <PhotoSwipe> handles images, my guess
 
-4. date posted time in Gallery is screwed up
+4. date posted time in Gallery is screwed up (workaround implimented, it just checks for the same thing as last updated footer)
 
 -- WISHLIST --
 What I just hope with all my heart I can make of this project
