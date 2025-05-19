@@ -29,8 +29,8 @@ params:
         since: 2025
 
     sidebar:
-        emoji: 🐅
-        subtitle: Have you been to the Zoo lately?
+        emoji: 🎰
+        subtitle: Let's go gambling!
         avatar:
             enabled: true
             local: true

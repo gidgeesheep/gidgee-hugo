@@ -2,64 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://www.gidgee.net/about/</loc>
     <lastmod>1969-12-31T19:00:00-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/page/</loc>
+    <loc>https://www.gidgee.net/page/</loc>
     <lastmod>2025-05-06T13:40:05-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-05-15T09:59:07-04:00</lastmod>
+    <loc>https://www.gidgee.net/post/</loc>
+    <lastmod>2025-05-18T10:52:36-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/fun-at-the-zoo/</loc>
-    <lastmod>2025-05-15T09:59:07-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2025-05-15T09:59:07-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/reviews/</loc>
-    <lastmod>2025-05-15T09:59:07-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/development/</loc>
+    <loc>https://www.gidgee.net/categories/</loc>
     <lastmod>2025-05-09T16:14:25-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/image-gallery/</loc>
+    <loc>https://www.gidgee.net/categories/development/</loc>
     <lastmod>2025-05-09T16:14:25-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/git-sucks/</loc>
+    <loc>https://www.gidgee.net/posts/image-gallery/</loc>
     <lastmod>2025-05-09T16:14:25-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/rant/</loc>
+    <loc>https://www.gidgee.net/posts/git-sucks/</loc>
     <lastmod>2025-05-09T16:14:25-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://www.gidgee.net/tags/rant/</loc>
     <lastmod>2025-05-09T16:14:25-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/still-learning-how-to-use-hugo/</loc>
+    <loc>https://www.gidgee.net/tags/</loc>
     <lastmod>2025-05-09T16:14:25-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/chicken/</loc>
+    <loc>https://www.gidgee.net/posts/still-learning-how-to-use-hugo/</loc>
+    <lastmod>2025-05-09T16:14:25-04:00</lastmod>
+  </url><url>
+    <loc>https://www.gidgee.net/tags/chicken/</loc>
     <lastmod>1969-12-31T19:00:00-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/i-love-this-video/</loc>
+    <loc>https://www.gidgee.net/posts/i-love-this-video/</loc>
     <lastmod>1969-12-31T19:00:00-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/videos/</loc>
+    <loc>https://www.gidgee.net/categories/videos/</loc>
     <lastmod>1969-12-31T19:00:00-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/every-blog-starts-somewhere.../</loc>
-    <lastmod>1969-12-31T19:00:00-05:00</lastmod>
+    <loc>https://www.gidgee.net/posts/every-blog-starts-somewhere.../</loc>
+    <lastmod>2025-05-18T10:52:36-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://www.gidgee.net/archives/</loc>
     <lastmod>2025-05-06T13:40:05-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/gallery/</loc>
+    <loc>https://www.gidgee.net/gallery/</loc>
     <lastmod>1969-12-31T19:00:00-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://www.gidgee.net/</loc>
     <lastmod>2025-05-05T10:10:06-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://www.gidgee.net/search/</loc>
     <lastmod>2025-05-06T13:34:02-04:00</lastmod>
   </url>
 </urlset>
