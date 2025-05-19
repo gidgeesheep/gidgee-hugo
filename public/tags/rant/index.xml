@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Rant on Gidgee&#39;s Awesome Website</title>
-        <link>http://localhost:1313/tags/rant/</link>
+        <link>https://www.gidgee.net/tags/rant/</link>
         <description>Recent content in Rant on Gidgee&#39;s Awesome Website</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>GidgeeSheep</copyright>
-        <lastBuildDate>Fri, 09 May 2025 16:14:25 -0400</lastBuildDate><atom:link href="http://localhost:1313/tags/rant/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 09 May 2025 16:14:25 -0400</lastBuildDate><atom:link href="https://www.gidgee.net/tags/rant/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Git Sucks*</title>
-        <link>http://localhost:1313/posts/git-sucks/</link>
+        <link>https://www.gidgee.net/posts/git-sucks/</link>
         <pubDate>Mon, 05 May 2025 10:45:33 -0400</pubDate>
         
-        <guid>http://localhost:1313/posts/git-sucks/</guid>
+        <guid>https://www.gidgee.net/posts/git-sucks/</guid>
         <description>&lt;p&gt;&lt;img src=&#34;logo.png&#34; style=&#34;background-color:white; padding: 10px; border-radius: 20px&#34; &gt;&lt;br&gt;&lt;/p&gt;
 &lt;h1 id=&#34;i-want-to-bitch-about-git&#34;&gt;I want to bitch about Git
 &lt;/h1&gt;&lt;p&gt;Don&amp;rsquo;t read this if you are a git wizard, this isn&amp;rsquo;t for you. I use git. I&amp;rsquo;m using git for this project right now.
@@ -22,7 +22,7 @@ I also lost the progress &lt;strong&gt;because&lt;/strong&gt; of &lt;em&gt;git&l
 &lt;p&gt;I&amp;rsquo;ve heard of it called something like a save file in a video game, where everything you do up to a point is frozen in time, ready for you to return to at any moment.&lt;/p&gt;
 &lt;i&gt;last edited:
 May 19, 2025
-12:15:26 pm&lt;/i&gt;
+12:21:10 pm&lt;/i&gt;
 
 </description>
         </item>

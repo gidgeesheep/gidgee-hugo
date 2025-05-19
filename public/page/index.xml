@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on Gidgee&#39;s Awesome Website</title>
-        <link>http://localhost:1313/page/</link>
+        <link>https://www.gidgee.net/page/</link>
         <description>Recent content in Pages on Gidgee&#39;s Awesome Website</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>GidgeeSheep</copyright>
-        <lastBuildDate>Tue, 06 May 2025 13:40:05 -0400</lastBuildDate><atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 06 May 2025 13:40:05 -0400</lastBuildDate><atom:link href="https://www.gidgee.net/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>About</title>
-        <link>http://localhost:1313/about/</link>
+        <link>https://www.gidgee.net/about/</link>
         <pubDate>Fri, 09 May 2025 14:10:11 -0400</pubDate>
         
-        <guid>http://localhost:1313/about/</guid>
+        <guid>https://www.gidgee.net/about/</guid>
         <description>&lt;h1 id=&#34;hello-and-welcome&#34;&gt;Hello and Welcome
 &lt;/h1&gt;&lt;p&gt;This is my mini personal blog, ran by myself for my own enjoyment. You can find articles of my thoughts and other things I find interesting posted here. I&amp;rsquo;m continually updating and developing this website as I learn more and more about web development, HUGO, html, css, and many other skills. There are many features that I hope to add and lots of personalization left to be done.&lt;/p&gt;
 &lt;h2 id=&#34;comments&#34;&gt;Comments
@@ -30,22 +30,24 @@
         </item>
         <item>
         <title>Archives</title>
-        <link>http://localhost:1313/archives/</link>
+        <link>https://www.gidgee.net/archives/</link>
         <pubDate>Thu, 01 May 2025 00:00:00 -0400</pubDate>
         
-        <guid>http://localhost:1313/archives/</guid>
+        <guid>https://www.gidgee.net/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>Gallery</title>
-        <link>http://localhost:1313/gallery/</link>
+        <link>https://www.gidgee.net/gallery/</link>
         <pubDate>Wed, 31 Dec 1969 19:00:00 -0500</pubDate>
         
-        <guid>http://localhost:1313/gallery/</guid>
-        <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/gallery/arlo-in-hell.jpg&#34;
+        <guid>https://www.gidgee.net/gallery/</guid>
+        <description>&lt;p&gt;Stupid Placeholder Gallery&lt;/p&gt;
+&lt;h2 id=&#34;funny-pictures&#34;&gt;Funny Pictures
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://www.gidgee.net/gallery/arlo-in-hell.jpg&#34;
 	width=&#34;900&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/gallery/arlo-in-hell_hu_dce80a43080f12ab.jpg 480w, http://localhost:1313/gallery/arlo-in-hell_hu_5ef4cc55a1007918.jpg 1024w&#34;
+	srcset=&#34;https://www.gidgee.net/gallery/arlo-in-hell_hu_dce80a43080f12ab.jpg 480w, https://www.gidgee.net/gallery/arlo-in-hell_hu_5ef4cc55a1007918.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -53,10 +55,10 @@
 		data-flex-grow=&#34;100&#34;
 		data-flex-basis=&#34;240px&#34;
 	
-&gt; &lt;img src=&#34;http://localhost:1313/gallery/steve.png&#34;
+&gt; &lt;img src=&#34;https://www.gidgee.net/gallery/steve.png&#34;
 	width=&#34;1770&#34;
 	height=&#34;2000&#34;
-	srcset=&#34;http://localhost:1313/gallery/steve_hu_17d0435850ceac0a.png 480w, http://localhost:1313/gallery/steve_hu_8d9e04e36aec855a.png 1024w&#34;
+	srcset=&#34;https://www.gidgee.net/gallery/steve_hu_17d0435850ceac0a.png 480w, https://www.gidgee.net/gallery/steve_hu_8d9e04e36aec855a.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -65,10 +67,10 @@
 		data-flex-basis=&#34;212px&#34;
 	
 &gt;
-&lt;img src=&#34;http://localhost:1313/gallery/funny-memem.jpg&#34;
+&lt;img src=&#34;https://www.gidgee.net/gallery/funny-memem.jpg&#34;
 	width=&#34;544&#34;
 	height=&#34;465&#34;
-	srcset=&#34;http://localhost:1313/gallery/funny-memem_hu_b6f1895c9e9da81c.jpg 480w, http://localhost:1313/gallery/funny-memem_hu_85d8b162e3698f78.jpg 1024w&#34;
+	srcset=&#34;https://www.gidgee.net/gallery/funny-memem_hu_b6f1895c9e9da81c.jpg 480w, https://www.gidgee.net/gallery/funny-memem_hu_85d8b162e3698f78.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -77,14 +79,50 @@
 		data-flex-basis=&#34;280px&#34;
 	
 &gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;cat-pictures&#34;&gt;Cat Pictures
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://www.gidgee.net/gallery/cat-photo1.jpg&#34;
+	width=&#34;2124&#34;
+	height=&#34;1816&#34;
+	srcset=&#34;https://www.gidgee.net/gallery/cat-photo1_hu_fbc3f85be98c1a3e.jpg 480w, https://www.gidgee.net/gallery/cat-photo1_hu_38bf3c843ddd5af8.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;116&#34;
+		data-flex-basis=&#34;280px&#34;
+	
+&gt; &lt;img src=&#34;https://www.gidgee.net/gallery/cat-photo2.jpg&#34;
+	width=&#34;2268&#34;
+	height=&#34;1818&#34;
+	srcset=&#34;https://www.gidgee.net/gallery/cat-photo2_hu_43716bec876bc26b.jpg 480w, https://www.gidgee.net/gallery/cat-photo2_hu_d1136c139154722f.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;124&#34;
+		data-flex-basis=&#34;299px&#34;
+	
+&gt; &lt;img src=&#34;https://www.gidgee.net/gallery/cat-photo3.jpg&#34;
+	width=&#34;2124&#34;
+	height=&#34;2268&#34;
+	srcset=&#34;https://www.gidgee.net/gallery/cat-photo3_hu_b8be3d69349c5e56.jpg 480w, https://www.gidgee.net/gallery/cat-photo3_hu_66478f471b27b24b.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;93&#34;
+		data-flex-basis=&#34;224px&#34;
+	
+&gt;&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>Search</title>
-        <link>http://localhost:1313/search/</link>
+        <link>https://www.gidgee.net/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/search/</guid>
+        <guid>https://www.gidgee.net/search/</guid>
         <description></description>
         </item>
         

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Chicken on Gidgee&#39;s Awesome Website</title>
-        <link>http://localhost:1313/tags/chicken/</link>
+        <link>https://www.gidgee.net/tags/chicken/</link>
         <description>Recent content in Chicken on Gidgee&#39;s Awesome Website</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>GidgeeSheep</copyright>
-        <lastBuildDate>Wed, 31 Dec 1969 19:00:00 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/chicken/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 31 Dec 1969 19:00:00 -0500</lastBuildDate><atom:link href="https://www.gidgee.net/tags/chicken/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>I Love This Video</title>
-        <link>http://localhost:1313/posts/i-love-this-video/</link>
+        <link>https://www.gidgee.net/posts/i-love-this-video/</link>
         <pubDate>Thu, 01 May 2025 19:44:42 -0400</pubDate>
         
-        <guid>http://localhost:1313/posts/i-love-this-video/</guid>
-        <description>&lt;img src="http://localhost:1313/posts/i-love-this-video/rooster.webp" alt="Featured image of post I Love This Video" /&gt;&lt;p&gt;Chicken&lt;/p&gt;
+        <guid>https://www.gidgee.net/posts/i-love-this-video/</guid>
+        <description>&lt;img src="https://www.gidgee.net/posts/i-love-this-video/rooster.webp" alt="Featured image of post I Love This Video" /&gt;&lt;p&gt;Chicken&lt;/p&gt;
 &lt;div class=&#34;video-wrapper&#34;&gt;
     &lt;iframe loading=&#34;lazy&#34; 
             src=&#34;https://www.youtube.com/embed/riB9uNamxsQ&#34; 

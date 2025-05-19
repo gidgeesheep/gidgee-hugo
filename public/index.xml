@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Gidgee&#39;s Awesome Website</title>
-        <link>http://localhost:1313/</link>
+        <link>https://www.gidgee.net/</link>
         <description>Recent content on Gidgee&#39;s Awesome Website</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <copyright>GidgeeSheep</copyright><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <copyright>GidgeeSheep</copyright><atom:link href="https://www.gidgee.net/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>About</title>
-        <link>http://localhost:1313/about/</link>
+        <link>https://www.gidgee.net/about/</link>
         <pubDate>Fri, 09 May 2025 14:10:11 -0400</pubDate>
         
-        <guid>http://localhost:1313/about/</guid>
+        <guid>https://www.gidgee.net/about/</guid>
         <description>&lt;h1 id=&#34;hello-and-welcome&#34;&gt;Hello and Welcome
 &lt;/h1&gt;&lt;p&gt;This is my mini personal blog, ran by myself for my own enjoyment. You can find articles of my thoughts and other things I find interesting posted here. I&amp;rsquo;m continually updating and developing this website as I learn more and more about web development, HUGO, html, css, and many other skills. There are many features that I hope to add and lots of personalization left to be done.&lt;/p&gt;
 &lt;h2 id=&#34;comments&#34;&gt;Comments
@@ -28,34 +28,21 @@
 </description>
         </item>
         <item>
-        <title>Fun at the Zoo</title>
-        <link>http://localhost:1313/posts/fun-at-the-zoo/</link>
-        <pubDate>Fri, 09 May 2025 10:29:46 -0400</pubDate>
-        
-        <guid>http://localhost:1313/posts/fun-at-the-zoo/</guid>
-        <description>&lt;p&gt;hello&lt;/p&gt;
-&lt;i&gt;last edited:
-May 19, 2025
-12:15:26 pm&lt;/i&gt;
-
-</description>
-        </item>
-        <item>
         <title>Image Gallery?!?</title>
-        <link>http://localhost:1313/posts/image-gallery/</link>
+        <link>https://www.gidgee.net/posts/image-gallery/</link>
         <pubDate>Tue, 06 May 2025 14:12:16 -0400</pubDate>
         
-        <guid>http://localhost:1313/posts/image-gallery/</guid>
+        <guid>https://www.gidgee.net/posts/image-gallery/</guid>
         <description>&lt;p&gt;(Note: Mobile can find it in the 3 bar dropdown)&lt;/p&gt;
 &lt;p&gt;Esentially just a bare-bones unmodified version of this post is just given a spotlight link on the left side. It&amp;rsquo;s filler until I finally learn how to make these page more automatic. Don&amp;rsquo;t mind the terrible images, they&amp;rsquo;re the only things on my pc to fill in space.&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>Git Sucks*</title>
-        <link>http://localhost:1313/posts/git-sucks/</link>
+        <link>https://www.gidgee.net/posts/git-sucks/</link>
         <pubDate>Mon, 05 May 2025 10:45:33 -0400</pubDate>
         
-        <guid>http://localhost:1313/posts/git-sucks/</guid>
+        <guid>https://www.gidgee.net/posts/git-sucks/</guid>
         <description>&lt;p&gt;&lt;img src=&#34;logo.png&#34; style=&#34;background-color:white; padding: 10px; border-radius: 20px&#34; &gt;&lt;br&gt;&lt;/p&gt;
 &lt;h1 id=&#34;i-want-to-bitch-about-git&#34;&gt;I want to bitch about Git
 &lt;/h1&gt;&lt;p&gt;Don&amp;rsquo;t read this if you are a git wizard, this isn&amp;rsquo;t for you. I use git. I&amp;rsquo;m using git for this project right now.
@@ -65,17 +52,17 @@ I also lost the progress &lt;strong&gt;because&lt;/strong&gt; of &lt;em&gt;git&l
 &lt;p&gt;I&amp;rsquo;ve heard of it called something like a save file in a video game, where everything you do up to a point is frozen in time, ready for you to return to at any moment.&lt;/p&gt;
 &lt;i&gt;last edited:
 May 19, 2025
-12:15:26 pm&lt;/i&gt;
+12:21:10 pm&lt;/i&gt;
 
 </description>
         </item>
         <item>
         <title>Still Learning How to Use Hugo</title>
-        <link>http://localhost:1313/posts/still-learning-how-to-use-hugo/</link>
+        <link>https://www.gidgee.net/posts/still-learning-how-to-use-hugo/</link>
         <pubDate>Fri, 02 May 2025 12:08:19 -0400</pubDate>
         
-        <guid>http://localhost:1313/posts/still-learning-how-to-use-hugo/</guid>
-        <description>&lt;img src="http://localhost:1313/posts/still-learning-how-to-use-hugo/hugo-logo-wide.svg" alt="Featured image of post Still Learning How to Use Hugo" /&gt;&lt;h2 id=&#34;im-really-having-fun&#34;&gt;I&amp;rsquo;m really having fun
+        <guid>https://www.gidgee.net/posts/still-learning-how-to-use-hugo/</guid>
+        <description>&lt;img src="https://www.gidgee.net/posts/still-learning-how-to-use-hugo/hugo-logo-wide.svg" alt="Featured image of post Still Learning How to Use Hugo" /&gt;&lt;h2 id=&#34;im-really-having-fun&#34;&gt;I&amp;rsquo;m really having fun
 &lt;/h2&gt;&lt;p&gt;Hugo is deep, complex, and a little intimidating. I&amp;rsquo;m really enjoying getting better with every moment of learning.&lt;br&gt;
 Lucky for me, things have been getting easier and easier every day.&lt;/p&gt;
 &lt;p&gt;You can visit the HUGO website &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
@@ -117,11 +104,11 @@ minus all of my configuration changes of course.&lt;/p&gt;
         </item>
         <item>
         <title>I Love This Video</title>
-        <link>http://localhost:1313/posts/i-love-this-video/</link>
+        <link>https://www.gidgee.net/posts/i-love-this-video/</link>
         <pubDate>Thu, 01 May 2025 19:44:42 -0400</pubDate>
         
-        <guid>http://localhost:1313/posts/i-love-this-video/</guid>
-        <description>&lt;img src="http://localhost:1313/posts/i-love-this-video/rooster.webp" alt="Featured image of post I Love This Video" /&gt;&lt;p&gt;Chicken&lt;/p&gt;
+        <guid>https://www.gidgee.net/posts/i-love-this-video/</guid>
+        <description>&lt;img src="https://www.gidgee.net/posts/i-love-this-video/rooster.webp" alt="Featured image of post I Love This Video" /&gt;&lt;p&gt;Chicken&lt;/p&gt;
 &lt;div class=&#34;video-wrapper&#34;&gt;
     &lt;iframe loading=&#34;lazy&#34; 
             src=&#34;https://www.youtube.com/embed/riB9uNamxsQ&#34; 
@@ -145,10 +132,10 @@ minus all of my configuration changes of course.&lt;/p&gt;
         </item>
         <item>
         <title>Every blog starts somewhere...</title>
-        <link>http://localhost:1313/posts/every-blog-starts-somewhere.../</link>
+        <link>https://www.gidgee.net/posts/every-blog-starts-somewhere.../</link>
         <pubDate>Thu, 01 May 2025 13:33:26 -0400</pubDate>
         
-        <guid>http://localhost:1313/posts/every-blog-starts-somewhere.../</guid>
+        <guid>https://www.gidgee.net/posts/every-blog-starts-somewhere.../</guid>
         <description>&lt;h1 id=&#34;and-this-one-starts-here&#34;&gt;And this one starts here!
 &lt;/h1&gt;&lt;p&gt;I&amp;rsquo;m constantly adding shit so who knows what you&amp;rsquo;ll see next!&lt;/p&gt;
 &lt;p style=&#34;font-size: 5vw;&#34;&gt;HELLO EVERYBODY!!!&lt;/p&gt;
@@ -187,22 +174,24 @@ update: working good enough
         </item>
         <item>
         <title>Archives</title>
-        <link>http://localhost:1313/archives/</link>
+        <link>https://www.gidgee.net/archives/</link>
         <pubDate>Thu, 01 May 2025 00:00:00 -0400</pubDate>
         
-        <guid>http://localhost:1313/archives/</guid>
+        <guid>https://www.gidgee.net/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>Gallery</title>
-        <link>http://localhost:1313/gallery/</link>
+        <link>https://www.gidgee.net/gallery/</link>
         <pubDate>Wed, 31 Dec 1969 19:00:00 -0500</pubDate>
         
-        <guid>http://localhost:1313/gallery/</guid>
-        <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/gallery/arlo-in-hell.jpg&#34;
+        <guid>https://www.gidgee.net/gallery/</guid>
+        <description>&lt;p&gt;Stupid Placeholder Gallery&lt;/p&gt;
+&lt;h2 id=&#34;funny-pictures&#34;&gt;Funny Pictures
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://www.gidgee.net/gallery/arlo-in-hell.jpg&#34;
 	width=&#34;900&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/gallery/arlo-in-hell_hu_dce80a43080f12ab.jpg 480w, http://localhost:1313/gallery/arlo-in-hell_hu_5ef4cc55a1007918.jpg 1024w&#34;
+	srcset=&#34;https://www.gidgee.net/gallery/arlo-in-hell_hu_dce80a43080f12ab.jpg 480w, https://www.gidgee.net/gallery/arlo-in-hell_hu_5ef4cc55a1007918.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -210,10 +199,10 @@ update: working good enough
 		data-flex-grow=&#34;100&#34;
 		data-flex-basis=&#34;240px&#34;
 	
-&gt; &lt;img src=&#34;http://localhost:1313/gallery/steve.png&#34;
+&gt; &lt;img src=&#34;https://www.gidgee.net/gallery/steve.png&#34;
 	width=&#34;1770&#34;
 	height=&#34;2000&#34;
-	srcset=&#34;http://localhost:1313/gallery/steve_hu_17d0435850ceac0a.png 480w, http://localhost:1313/gallery/steve_hu_8d9e04e36aec855a.png 1024w&#34;
+	srcset=&#34;https://www.gidgee.net/gallery/steve_hu_17d0435850ceac0a.png 480w, https://www.gidgee.net/gallery/steve_hu_8d9e04e36aec855a.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -222,10 +211,10 @@ update: working good enough
 		data-flex-basis=&#34;212px&#34;
 	
 &gt;
-&lt;img src=&#34;http://localhost:1313/gallery/funny-memem.jpg&#34;
+&lt;img src=&#34;https://www.gidgee.net/gallery/funny-memem.jpg&#34;
 	width=&#34;544&#34;
 	height=&#34;465&#34;
-	srcset=&#34;http://localhost:1313/gallery/funny-memem_hu_b6f1895c9e9da81c.jpg 480w, http://localhost:1313/gallery/funny-memem_hu_85d8b162e3698f78.jpg 1024w&#34;
+	srcset=&#34;https://www.gidgee.net/gallery/funny-memem_hu_b6f1895c9e9da81c.jpg 480w, https://www.gidgee.net/gallery/funny-memem_hu_85d8b162e3698f78.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -234,14 +223,50 @@ update: working good enough
 		data-flex-basis=&#34;280px&#34;
 	
 &gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;cat-pictures&#34;&gt;Cat Pictures
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://www.gidgee.net/gallery/cat-photo1.jpg&#34;
+	width=&#34;2124&#34;
+	height=&#34;1816&#34;
+	srcset=&#34;https://www.gidgee.net/gallery/cat-photo1_hu_fbc3f85be98c1a3e.jpg 480w, https://www.gidgee.net/gallery/cat-photo1_hu_38bf3c843ddd5af8.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;116&#34;
+		data-flex-basis=&#34;280px&#34;
+	
+&gt; &lt;img src=&#34;https://www.gidgee.net/gallery/cat-photo2.jpg&#34;
+	width=&#34;2268&#34;
+	height=&#34;1818&#34;
+	srcset=&#34;https://www.gidgee.net/gallery/cat-photo2_hu_43716bec876bc26b.jpg 480w, https://www.gidgee.net/gallery/cat-photo2_hu_d1136c139154722f.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;124&#34;
+		data-flex-basis=&#34;299px&#34;
+	
+&gt; &lt;img src=&#34;https://www.gidgee.net/gallery/cat-photo3.jpg&#34;
+	width=&#34;2124&#34;
+	height=&#34;2268&#34;
+	srcset=&#34;https://www.gidgee.net/gallery/cat-photo3_hu_b8be3d69349c5e56.jpg 480w, https://www.gidgee.net/gallery/cat-photo3_hu_66478f471b27b24b.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;93&#34;
+		data-flex-basis=&#34;224px&#34;
+	
+&gt;&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>Search</title>
-        <link>http://localhost:1313/search/</link>
+        <link>https://www.gidgee.net/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/search/</guid>
+        <guid>https://www.gidgee.net/search/</guid>
         <description></description>
         </item>
         
