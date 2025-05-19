@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Categories on Gidgee&#39;s Awesome Website</title>
+        <link>http://localhost:1313/categories/</link>
+        <description>Recent content in Categories on Gidgee&#39;s Awesome Website</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>GidgeeSheep</copyright>
+        <lastBuildDate>Thu, 15 May 2025 09:59:07 -0400</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Reviews</title>
+        <link>http://localhost:1313/categories/reviews/</link>
+        <pubDate>Fri, 09 May 2025 10:29:46 -0400</pubDate>
+        
+        <guid>http://localhost:1313/categories/reviews/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Development</title>
+        <link>http://localhost:1313/categories/development/</link>
+        <pubDate>Tue, 06 May 2025 14:12:16 -0400</pubDate>
+        
+        <guid>http://localhost:1313/categories/development/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Videos</title>
+        <link>http://localhost:1313/categories/videos/</link>
+        <pubDate>Thu, 01 May 2025 19:44:42 -0400</pubDate>
+        
+        <guid>http://localhost:1313/categories/videos/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

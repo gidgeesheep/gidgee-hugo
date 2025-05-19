@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Gidgee&#39;s Awesome Website</title>
+        <link>http://localhost:1313/post/</link>
+        <description>Recent content in Posts on Gidgee&#39;s Awesome Website</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>GidgeeSheep</copyright>
+        <lastBuildDate>Thu, 15 May 2025 09:59:07 -0400</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Fun at the Zoo</title>
+        <link>http://localhost:1313/posts/fun-at-the-zoo/</link>
+        <pubDate>Fri, 09 May 2025 10:29:46 -0400</pubDate>
+        
+        <guid>http://localhost:1313/posts/fun-at-the-zoo/</guid>
+        <description>&lt;h1 id=&#34;pittsburgh-zoo&#34;&gt;Pittsburgh Zoo
+&lt;/h1&gt;&lt;p&gt;A gorgeous, outdoor park style zoo. Animals from around the world preserved and cared for by expert staff.  There&amp;rsquo;s a lot of fun to be had at the zoo, and I highly recommend it as a day trip to anyone.&lt;/p&gt;
+&lt;h2 id=&#34;what-to-expect&#34;&gt;What to Expect
+&lt;/h2&gt;&lt;p&gt;Pittsburgh Zoo is located along the North River, on top of the Highland Park. Asphalt pathways snaking up and down the forested hills. Be prepared for a bit cardio on scenic walk along a journey through the park.&lt;/p&gt;
+&lt;h2 id=&#34;essentials-to-bring&#34;&gt;Essentials to Bring
+&lt;/h2&gt;&lt;p&gt;Don&amp;rsquo;t forget to pack these few things, and you will find your Zoo trip to be mountains more enjoyable.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Sunscreen&lt;/li&gt;
+&lt;li&gt;Hats for sun shade&lt;/li&gt;
+&lt;li&gt;Umbrellas (&lt;em&gt;check your weather forecast&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;Reusable Water Bottles
+&lt;ul&gt;
+&lt;li&gt;Park Water fountains Available with bottle fill styles occasionally&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;em&gt;Optional&lt;/em&gt;&lt;/strong&gt;&lt;br&gt;
+While not strictly necessary, taking along these extras will enhance your experience and save you money&lt;/li&gt;
+&lt;li&gt;Packed Bag Lunches&lt;/li&gt;
+&lt;li&gt;Binoculars (Low Medium magnifying)&lt;/li&gt;
+&lt;li&gt;Comfortable Bag&lt;br&gt;
+&lt;em&gt;Go ahead and anything else that you find to enhance your personal confort at a park, take along, just check against the park&amp;rsquo;s guidelines &lt;a class=&#34;link&#34; href=&#34;https://www.pittsburghzoo.org/plan-your-visit/zoo-information/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;here&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;your-time&#34;&gt;Your Time
+&lt;/h2&gt;&lt;p&gt;Plannibg on how long you plan to stay at the park is a matter of how long you want to stay at each exhibit. I find that  on average, 5 hours can get you a leisurely trip around to all the major attractions with time for lunch.&lt;br&gt;
+The park is opened from 9:30 am to 5:30 pm. Members can enter the park 30 minutes early.&lt;/p&gt;
+&lt;img src=&#34;flamingo-web.jpg&#34; alt=&#34;Photo of a flamingo drinking water&#34; style=&#34;border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 150px;&#34;&gt;
+</description>
+        </item>
+        <item>
+        <title>Image Gallery?!?</title>
+        <link>http://localhost:1313/posts/image-gallery/</link>
+        <pubDate>Tue, 06 May 2025 14:12:16 -0400</pubDate>
+        
+        <guid>http://localhost:1313/posts/image-gallery/</guid>
+        <description>&lt;p&gt;(Note: Mobile can find it in the 3 bar dropdown)&lt;/p&gt;
+&lt;p&gt;Esentially just a bare-bones unmodified version of this post is just given a spotlight link on the left side. It&amp;rsquo;s filler until I finally learn how to make these page more automatic. Don&amp;rsquo;t mind the terrible images, they&amp;rsquo;re the only things on my pc to fill in space.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Git Sucks*</title>
+        <link>http://localhost:1313/posts/git-sucks/</link>
+        <pubDate>Mon, 05 May 2025 10:45:33 -0400</pubDate>
+        
+        <guid>http://localhost:1313/posts/git-sucks/</guid>
+        <description>&lt;p&gt;&lt;img src=&#34;logo.png&#34; style=&#34;background-color:white; padding: 10px; border-radius: 20px&#34; &gt;&lt;br&gt;&lt;/p&gt;
+&lt;h1 id=&#34;i-want-to-bitch-about-git&#34;&gt;I want to bitch about Git
+&lt;/h1&gt;&lt;p&gt;Don&amp;rsquo;t read this if you are a git wizard, this isn&amp;rsquo;t for you. I use git. I&amp;rsquo;m using git for this project right now.
+If I didn&amp;rsquo;t use it, I would have lost some good progress.&lt;br&gt;
+I also lost the progress &lt;strong&gt;because&lt;/strong&gt; of &lt;em&gt;git&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Git is a controller for &amp;lsquo;version control&amp;rsquo; or a fancy way of tracking you files&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve heard of it called something like a save file in a video game, where everything you do up to a point is frozen in time, ready for you to return to at any moment.&lt;/p&gt;
+&lt;i&gt;last edited:
+May 15, 2025
+9:59:28 am&lt;/i&gt;
+
+</description>
+        </item>
+        <item>
+        <title>Still Learning How to Use Hugo</title>
+        <link>http://localhost:1313/posts/still-learning-how-to-use-hugo/</link>
+        <pubDate>Fri, 02 May 2025 12:08:19 -0400</pubDate>
+        
+        <guid>http://localhost:1313/posts/still-learning-how-to-use-hugo/</guid>
+        <description>&lt;img src="http://localhost:1313/posts/still-learning-how-to-use-hugo/hugo-logo-wide.svg" alt="Featured image of post Still Learning How to Use Hugo" /&gt;&lt;h2 id=&#34;im-really-having-fun&#34;&gt;I&amp;rsquo;m really having fun
+&lt;/h2&gt;&lt;p&gt;Hugo is deep, complex, and a little intimidating. I&amp;rsquo;m really enjoying getting better with every moment of learning.&lt;br&gt;
+Lucky for me, things have been getting easier and easier every day.&lt;/p&gt;
+&lt;p&gt;You can visit the HUGO website &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;here&lt;/a&gt; and you can get the theme I use &lt;a class=&#34;link&#34; href=&#34;https://github.com/CaiJimmy/hugo-theme-stack&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;here&lt;/a&gt;,&lt;br&gt;
+minus all of my configuration changes of course.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;There is a ton of stuff left to do, from editing the configs defaulty introduced of the theme, as well as inventing my own.&lt;/p&gt;
+&lt;p&gt;For god sakes I haven&amp;rsquo;t even got many posts to begin with. But I&amp;rsquo;m changing that slowly 😊, and little tweaks and addtions will pop up everywhere with time. This website will be my own.&lt;/p&gt;
+&lt;h2 id=&#34;todo&#34;&gt;TODO
+&lt;/h2&gt;&lt;p&gt;There are a few things that I have to keep working on to get this site up to peak&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Find out how to make this checkbox work&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Add a comments section&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Get the last edited thing working at the bottom of the page&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Add color to the background, grey and white is like 🤮&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Photo Gallery!? I don&amp;rsquo;t even know how the menus on the left side work, but I&amp;rsquo;d put it there!&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;There are more things to do but I&amp;rsquo;m no going to list it all here.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://media.tenor.com/R4Gc_y32GJcAAAAj/cubama-obama.gif&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;obamacube&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;At current, this is more like a wishful prototype, build on a stolen skeleton&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        </item>
+        <item>
+        <title>I Love This Video</title>
+        <link>http://localhost:1313/posts/i-love-this-video/</link>
+        <pubDate>Thu, 01 May 2025 19:44:42 -0400</pubDate>
+        
+        <guid>http://localhost:1313/posts/i-love-this-video/</guid>
+        <description>&lt;img src="http://localhost:1313/posts/i-love-this-video/rooster.webp" alt="Featured image of post I Love This Video" /&gt;&lt;p&gt;Chicken&lt;/p&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/riB9uNamxsQ&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/aSf2UjhZNdc&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+        </item>
+        <item>
+        <title>Every blog starts somewhere...</title>
+        <link>http://localhost:1313/posts/every-blog-starts-somewhere.../</link>
+        <pubDate>Thu, 01 May 2025 13:33:26 -0400</pubDate>
+        
+        <guid>http://localhost:1313/posts/every-blog-starts-somewhere.../</guid>
+        <description>&lt;h1 id=&#34;and-this-one-starts-here&#34;&gt;And this one starts here!
+&lt;/h1&gt;&lt;p&gt;I&amp;rsquo;m constantly adding shit so who knows what you&amp;rsquo;ll see next!&lt;/p&gt;
+&lt;p style=&#34;font-size: 5vw;&#34;&gt;HELLO EVERYBODY!!!&lt;/p&gt;
+&lt;img src=&#34;pim.gif&#34; width=100% style=&#34;margin: 1; border-style:solid; border-color: white;   display: block; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;p&gt;That doesn&amp;rsquo;t nessesarily mean it&amp;rsquo;s a &lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=dQw4w9WgXcQ&amp;amp;autoplay=1&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;good&lt;/a&gt; post. It could suck! But we are &lt;code&gt;here&lt;/code&gt; anyway, so welcome to the beginning of everything!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;this is not it my dude&lt;/p&gt;&lt;/blockquote&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;br&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;img&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;src&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;pim.gif&amp;#34;&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;!-- This is modified in the stack theme to do some strange thing i don&#39;t want, specifically it adds a static layer on my gif that makes it ugly --&gt;
+&lt;!-- ![pim](pim.gif &#34;HELLOEVERYBODY&#34;) --&gt;
+&lt;!-- 
+I am trying to wrangle with what the fuck they hugo documentation says about resources
+but it just ends up reading it as a &lt;p&gt; paragraph, i don&#39;t know what it wants
+I think the $ is a way of saying this is a variable??
+the := might be a pipe but i don&#39;t know
+ .Resources.Get looks like a function name and it specifies with first letter capital for this local image, the global one was all lowercase
+ i dont fucking get it
+
+ ok so in the GO language, hugo does use $ to state the name of the variable, and the := is like an initialization, and = is like assignment 
+ https://www.thenewdynamic.com/article/hugo-data/manipulation-and-logic-the-basics/
+ 
+--&gt;
+&lt;!-- {{ $pim := .Resources.Get &#34;pim.gif&#34; }} --&gt;
+&lt;!-- 
+this is raw html, and the renderer sees it, it seems to be intentionally ignoring it at render, i&#39;ll try to change the global .config for markup:goldmark:renderer:unsafe
+into the true bool
+
+the warning is gone now, but my html is not fixed yet
+update: working good enough
+-moved to top of screen
+
+--&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
