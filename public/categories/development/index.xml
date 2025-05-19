@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Development on Gidgee&#39;s Awesome Website</title>
-        <link>https://www.gidgee.net/categories/development/</link>
+        <link>http://localhost:1313/categories/development/</link>
         <description>Recent content in Development on Gidgee&#39;s Awesome Website</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>GidgeeSheep</copyright>
-        <lastBuildDate>Fri, 09 May 2025 16:14:25 -0400</lastBuildDate><atom:link href="https://www.gidgee.net/categories/development/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 09 May 2025 16:14:25 -0400</lastBuildDate><atom:link href="http://localhost:1313/categories/development/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Image Gallery?!?</title>
-        <link>https://www.gidgee.net/posts/image-gallery/</link>
+        <link>http://localhost:1313/posts/image-gallery/</link>
         <pubDate>Tue, 06 May 2025 14:12:16 -0400</pubDate>
         
-        <guid>https://www.gidgee.net/posts/image-gallery/</guid>
+        <guid>http://localhost:1313/posts/image-gallery/</guid>
         <description>&lt;p&gt;(Note: Mobile can find it in the 3 bar dropdown)&lt;/p&gt;
 &lt;p&gt;Esentially just a bare-bones unmodified version of this post is just given a spotlight link on the left side. It&amp;rsquo;s filler until I finally learn how to make these page more automatic. Don&amp;rsquo;t mind the terrible images, they&amp;rsquo;re the only things on my pc to fill in space.&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>Git Sucks*</title>
-        <link>https://www.gidgee.net/posts/git-sucks/</link>
+        <link>http://localhost:1313/posts/git-sucks/</link>
         <pubDate>Mon, 05 May 2025 10:45:33 -0400</pubDate>
         
-        <guid>https://www.gidgee.net/posts/git-sucks/</guid>
+        <guid>http://localhost:1313/posts/git-sucks/</guid>
         <description>&lt;p&gt;&lt;img src=&#34;logo.png&#34; style=&#34;background-color:white; padding: 10px; border-radius: 20px&#34; &gt;&lt;br&gt;&lt;/p&gt;
 &lt;h1 id=&#34;i-want-to-bitch-about-git&#34;&gt;I want to bitch about Git
 &lt;/h1&gt;&lt;p&gt;Don&amp;rsquo;t read this if you are a git wizard, this isn&amp;rsquo;t for you. I use git. I&amp;rsquo;m using git for this project right now.
@@ -32,17 +32,17 @@ I also lost the progress &lt;strong&gt;because&lt;/strong&gt; of &lt;em&gt;git&l
 &lt;p&gt;I&amp;rsquo;ve heard of it called something like a save file in a video game, where everything you do up to a point is frozen in time, ready for you to return to at any moment.&lt;/p&gt;
 &lt;i&gt;last edited:
 May 19, 2025
-12:08:12 pm&lt;/i&gt;
+12:15:26 pm&lt;/i&gt;
 
 </description>
         </item>
         <item>
         <title>Still Learning How to Use Hugo</title>
-        <link>https://www.gidgee.net/posts/still-learning-how-to-use-hugo/</link>
+        <link>http://localhost:1313/posts/still-learning-how-to-use-hugo/</link>
         <pubDate>Fri, 02 May 2025 12:08:19 -0400</pubDate>
         
-        <guid>https://www.gidgee.net/posts/still-learning-how-to-use-hugo/</guid>
-        <description>&lt;img src="https://www.gidgee.net/posts/still-learning-how-to-use-hugo/hugo-logo-wide.svg" alt="Featured image of post Still Learning How to Use Hugo" /&gt;&lt;h2 id=&#34;im-really-having-fun&#34;&gt;I&amp;rsquo;m really having fun
+        <guid>http://localhost:1313/posts/still-learning-how-to-use-hugo/</guid>
+        <description>&lt;img src="http://localhost:1313/posts/still-learning-how-to-use-hugo/hugo-logo-wide.svg" alt="Featured image of post Still Learning How to Use Hugo" /&gt;&lt;h2 id=&#34;im-really-having-fun&#34;&gt;I&amp;rsquo;m really having fun
 &lt;/h2&gt;&lt;p&gt;Hugo is deep, complex, and a little intimidating. I&amp;rsquo;m really enjoying getting better with every moment of learning.&lt;br&gt;
 Lucky for me, things have been getting easier and easier every day.&lt;/p&gt;
 &lt;p&gt;You can visit the HUGO website &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
