@@ -22,7 +22,7 @@ tags:
 enableEmoji: true
 
 comments: false
-draft: true
+draft: false
 
 readingTime: false
 ---
@@ -52,6 +52,9 @@ The park is opened from 9:30 am to 5:30 pm. Members can enter the park 30 minute
 
 <div>
     <img src="flamingo-web.jpg" alt="Photo of a flamingo drinking water" style="border-style: solid; border-color: #f5516c; border-radius: 5px; width: 20vw;">
-    <div><p>Hello baby</p>
+    <div><p>I took this picture of a Freak Flamingo</p>
     </div>
 </div>
+
+Go have fun at the Zoo. Give them money, they are doing construction right now to make it better. You need to go to the zoo. Blah Blah Balh yap yap yap.  
+The end.
